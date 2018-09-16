@@ -36,10 +36,7 @@
                     </tr>
                
                 
-                    <tr>
-                        <td><input type="submit" value="Submit" /></td>
-                        <td><input type="reset" value="Reset" /></td>
-                    </tr>
+                   
                    
                 </tbody>
             </table>
